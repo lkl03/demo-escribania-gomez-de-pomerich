@@ -1,2 +1,7 @@
-# demo-escribania-gomez-de-pomerich
-Demo web para Escribanía Gómez de Pomerich — diseñada por eterlab.
+# Escribanía Gómez de Pomerich
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
